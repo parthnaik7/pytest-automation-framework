@@ -1,4 +1,6 @@
+allure-pytest
 pytest
+pandas
 requests
 pyyaml
 jsonschema

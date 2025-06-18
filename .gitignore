@@ -8,9 +8,11 @@ pycache/
 *.env
 .env/
 .vscode/
-../.idea/
+.idea/
 .DS_Store
 node_modules/
 chromedriver
 report.html
 allure-results/
+records.csv
+reports/
