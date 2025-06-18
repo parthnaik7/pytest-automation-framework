@@ -1,0 +1,16 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+.env/
+.vscode/
+../.idea/
+.DS_Store
+node_modules/
+chromedriver
+report.html
+allure-results/
